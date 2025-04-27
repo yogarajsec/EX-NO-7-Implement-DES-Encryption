@@ -1,4 +1,4 @@
-# EX-NO-7-Implement-DES-Encryption-and-Decryption
+# EX-NO-7-Implement-DES-Encryption
 
 ## Aim:
 
